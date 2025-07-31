@@ -67,3 +67,17 @@ nav{
 - [x] about page
 - [ ] contact page
 - [ ] service page
+
+## Link
+
+
+CSS framework [PNCschool](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
+
+## Image dashboard
+
+![alt text](image-1.png)
+
+
+## Badge
+
+[![Button](https://img.shields.io/badge/Visit-Website-blue)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
